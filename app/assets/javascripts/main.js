@@ -36,12 +36,12 @@
 		});
 
 	// Dropdowns.
-		$('#nav > ul').dropotron({
-			mode: 'fade',
-			speed: 350,
-			noOpenerFade: true,
-			alignment: 'center'
-		});
+	$('#nav > ul').dropotron;{
+		mode; 'fade',
+		speed; 350,
+		noOpenerFade; true,
+		alignment; 'center'
+	};
 
 	// Scrolly.
 		$('.scrolly').scrolly();
