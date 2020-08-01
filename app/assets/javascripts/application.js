@@ -6,16 +6,14 @@
 //
 // It's not advisable to add code directly here, but if you do, it'll appear at the bottom of the
 // compiled file. JavaScript code in this file should be added after the last require_* statement.
-
-
-require("jquery.min.js")
-require("jquery.dropotron.min.js")
-require("jquery.scrolly.min.js")
-require("jquery.scrollex.min.js")
-require("browser.min.js")
-require("breakpoints.min.js")
-require("util.js")
-require("main.js")
+//=require("jquery.min.js")
+//=require("jquery.dropotron.min.js")
+//=require("jquery.scrolly.min.js")
+//=require("jquery.scrollex.min.js")
+//=require("browser.min.js")
+//=require("breakpoints.min.js")
+//=require("util.js")
+//=require("main.js")
 //
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
